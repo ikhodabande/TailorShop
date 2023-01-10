@@ -1,0 +1,52 @@
+#header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+nav {
+  box-shadow: 0px 0px 90px 1px #666;
+}
+ul {
+  text-align: center;
+}
+section {
+  margin: 20px 0 20px 0;
+  padding: 0 15px 0 15px;
+}
+
+
+#Home-tile, #specials-tile, #map-tile {
+  height: 250px;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
+  border: 2px solid #3F0C1F;
+  overflow: hidden;
+}
+#Home-tile:hover, #specials-tile:hover, #map-tile:hover {
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+#Home-tile {
+  background: url('../images/Logo-large.png') no-repeat;
+  background-position: center;
+}
+#specials-tile {
+  background: url('../images/Logo-large.png') no-repeat;
+  background-position: center;
+}
+#Home-tile span, #specials-tile span, #map-tile span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: rgb(116, 116, 116);
+  color: #fff;
+  opacity: .8;
+}
+
+/* <!--footer--> */
