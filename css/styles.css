@@ -12,7 +12,7 @@ ul {
   text-align: center;
 }
 section {
-  margin: 20px 0 20px 0;
+  margin: 500px 0 20px 0;
   padding: 0 15px 0 15px;
 }
 
@@ -29,11 +29,11 @@ section {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #Home-tile {
-  background: url('../images/Logo-large.png') no-repeat;
+  background: url('../images/Special.jpg') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('../images/Logo-large.png') no-repeat;
+  background: url('../images/collections.jpg') no-repeat;
   background-position: center;
 }
 #Home-tile span, #specials-tile span, #map-tile span {
