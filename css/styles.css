@@ -10,8 +10,9 @@ nav {
 }
 ul {
   text-align: center;
-  margin-left: 10px;
+  padding-left: 10px;
 }
+
 h2 {
   text-align: center;
   font-family: "Josefin Sans";
