@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ikhodabande.github.io/TailorShop/Index.html/">
+  <a href="https://ikhodabande.github.io/TailorShop/Index.html">
 <img src="https://ikhodabande.github.io/TailorShop/images/Logowhite.png" alt="TailorShop logo" width="172" height="172">
     </a>
   </p>
