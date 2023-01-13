@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://coursera.org/">
-<img src="https://ikhodabande.github.io/TailorShop/images/Logo-large.png" alt="TailorShop logo" width="172" height="172">
+<img src="https://ikhodabande.github.io/TailorShop/images/Logowhite.png" alt="TailorShop logo" width="172" height="172">
     </a>
   </p>
   
